@@ -1,0 +1,14 @@
+ros_ws/build/
+ros_ws/install/
+ros_ws/log/
+**/__pycache__/
+*.egg-info/
+.venv/
+venv/
+.vscode/
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+dataset/
